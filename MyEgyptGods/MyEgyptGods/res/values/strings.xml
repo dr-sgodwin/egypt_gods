@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Egypt Gods</string>
+    <string name="action_settings">Settings</string>
+    <string name="imageDescription">Egyptian God</string>
+    <string name="godname">Egypt God Name</string>
+
+</resources>

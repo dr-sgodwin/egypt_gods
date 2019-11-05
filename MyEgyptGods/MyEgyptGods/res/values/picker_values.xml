@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- months of the year -->
+    <string-array name="month">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    
+    <!-- colors of the rainbow -->
+    <string-array name="rainbow_color">
+        <item>red</item>
+        <item>orange</item>
+        <item>yellow</item>
+        <item>green</item>
+        <item>blue</item>
+        <item>indigo</item>
+        <item>violet</item>
+    </string-array>
+
+    <!-- egypt god names -->
+    <string-array name="egyptgodname">
+        <item>Amum</item>
+        <item>Anubis</item>
+        <item>Atum</item>
+        <item>Hathor</item>
+        <item>Horus</item>
+        <item>Isis</item>
+        <item>Khnum</item>
+        <item>Khonsu</item>
+        <item>Maat</item>
+        <item>Min</item>
+        <item>Mut</item>
+        <item>Nephthys</item>
+        <item>Osiris</item>
+        <item>Ptah</item>
+        <item>Ra</item>
+        <item>Sekhmet</item>
+        <item>Selkis</item>
+        <item>Sobek</item>
+        <item>Thoth</item>
+    </string-array>
+</resources>
